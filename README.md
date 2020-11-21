@@ -1,2 +1,2 @@
 # laborator8
-laborator 8
+Burian Andrei
